@@ -1,0 +1,2 @@
+from os import environ
+GOOGLE_APPLICATION_CREDENTIALS = environ.get('GOOGLE_APPLICATION_CREDENTIALS')
