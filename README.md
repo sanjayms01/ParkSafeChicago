@@ -33,10 +33,10 @@ Data is extracted from the [Chicago Police Department's CLEAR](https://data.city
 Listed are the following steps to get up and running. 
 
 1. Clone repo to your preferred location
-* `git clone https://github.com/sanjayms01/park-safe-chicago.git`
+* `git clone https://github.com/sanjayms01/ParkSafeChicago.git`
 
 2. Create Python Virtual environment 
-* `cd park-safe-chicago/backend/`
+* `cd ParkSafeChicago/backend/`
 * `python -m venv park-safe`
 * `source park-safe/bin/activate`
 
@@ -80,7 +80,7 @@ Listed are the following steps to get up and running with the web app
   * If you do not, download from here - https://nodejs.org/en/download/
 
 1. Navigate back to the right folder location
-* `cd park-safe-chicago/frontend`
+* `cd ParkSafeChicago/frontend`
 
 2. Install all the node packages
 * `npm install`
