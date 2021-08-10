@@ -107,6 +107,9 @@ Listed are the following steps to get up and running with the web app
 * If you install a new python pacakge while on the virtual env, run the following command so that we can add it to the `requirements.txt`
 `pip freeze >> requirements.txt`
 
+* On line 12 in **userMap.js** you will have to swap in your **Mapbox API Token** as a string assigned to the variable `MAPBOX_TOKEN`. You must have a Mapbox Account setup
+* On line 66 in **searchBox.js** you will have to replace the text `SPECIFY_HERE_GOOGLE_MAPS_API_PUBLIC_KEY_STRING` with your **Google Maps API Key String**. You must have a Google Maps API credential setup.
+
 <hr>
 
 ### Flask Notes:
