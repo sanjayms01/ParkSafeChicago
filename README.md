@@ -1,4 +1,4 @@
-# park-safe-chicago
+# Park Safe Chicago
 
 ## Where is a safe place to park my car?
 ### Goal
